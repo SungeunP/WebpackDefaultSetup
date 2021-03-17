@@ -1,0 +1,1 @@
+console.log('Hello from index_2.js')
